@@ -1,7 +1,0 @@
-{
-    "java.project.referencedLibraries": [
-        "lib/**/*.jar",
-        "src/lib/jl1.0.jar",
-    
-    ]
-}
